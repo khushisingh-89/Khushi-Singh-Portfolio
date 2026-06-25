@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .timeline-content {
     transition: 0.4s ease;
 }
